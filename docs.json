@@ -118,5 +118,14 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "styling": {
+    "eyebrows": "section"
+  },
+  "appearance": {
+    "default": "system"
+  },
+  "background": {
+    "decoration": "grid"
   }
 }
